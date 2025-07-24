@@ -39,7 +39,7 @@ A análise revelou um perfil claro do cliente com maior propensão a cancelar o 
 -   **Linguagem:** Python 3
 -   **Bibliotecas Principais:**
     -   `Pandas`: Para manipulação e análise de dados.
-    -   `Matplotlib` e `Seaborn`: Para visualização de dados e criação de gráficos.
+    -   `Matplotlib` e `Plotly`: Para visualização de dados e criação de gráficos.
     -   `Jupyter Notebook`: Como ambiente de desenvolvimento interativo.
 
 ## ▶️ 6. Como Executar o Projeto
